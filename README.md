@@ -31,7 +31,3 @@
 ### Still learning and improving my skills:
 
 [![My Skills](https://skillicons.dev/icons?i=ts,react,nodejs,jest,php,vue,next,threejs&perline=10)](https://skillicons.dev)
-
-### My stats:
-
-![My's GitHub stats](https://github-readme-stats.vercel.app/api?username=devlancer0328&show_icons=true&theme=dracula)
