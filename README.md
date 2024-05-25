@@ -25,18 +25,13 @@
     <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,nodejs,react,express,vite,nextjs,prisma,git,github,githubactions,mysql,mongodb,supabase,netlify,vercel,vscode,docker,cpp,java,python,linux" />
   </a>
   
-<br>
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=TanishBasu2002&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=TanishBasu2002&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=TanishBasu2002&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+### Languages and Tools:
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,materialui,styledcomponents,bootstrap,js,jquery,ts,react,java,git,jest,nodejs,webpack,vite,vscode,eclipse,idea,figma,xd,ps,netlify,heroku,github,gitlab&perline=10)](https://skillicons.dev)
 
----
+### Still learning and improving my skills:
 
-[![](https://visitcount.itsvg.in/api?id=TanishBasu2002&icon=5&color=12)](https://visitcount.itsvg.in)
+[![My Skills](https://skillicons.dev/icons?i=ts,react,nodejs,jest,php,vue,next,threejs&perline=10)](https://skillicons.dev)
 
-## 💰 You can help me by Donating
+### Connect with me:
 
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/tanishbasu)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![Linkedin](https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/marcin-godlewski-153897139/)
