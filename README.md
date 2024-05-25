@@ -27,12 +27,12 @@
   
 <br>
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=devlancer0328&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=devlancer0328&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=devlancer0328&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=TanishBasu2002&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=TanishBasu2002&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=TanishBasu2002&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=devlancer0328&icon=5&color=12)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=TanishBasu2002&icon=5&color=12)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
