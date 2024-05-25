@@ -31,3 +31,5 @@
 ### Still learning and improving my skills:
 
 [![My Skills](https://skillicons.dev/icons?i=ts,react,nodejs,jest,php,vue,next,threejs&perline=10)](https://skillicons.dev)
+
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=devlancer0328&layout=compact&langs_count=6&theme=material-palenight"/>
