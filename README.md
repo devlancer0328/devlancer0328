@@ -25,6 +25,8 @@
     <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,nodejs,react,express,vite,nextjs,prisma,git,github,githubactions,mysql,mongodb,supabase,netlify,vercel,vscode,docker,cpp,java,python,linux" />
   </a>
   
+## My Badges Of Hacktober
+[![An image of @tanishbasu2002's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tanishbasu2002)](https://holopin.io/@tanishbasu2002)
 <br>
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=TanishBasu2002&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
@@ -34,5 +36,9 @@
 ---
 
 [![](https://visitcount.itsvg.in/api?id=TanishBasu2002&icon=5&color=12)](https://visitcount.itsvg.in)
+
+## 💰 You can help me by Donating
+
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/tanishbasu)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
