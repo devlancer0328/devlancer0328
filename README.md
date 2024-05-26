@@ -10,7 +10,7 @@
 
 # 💫 About Me: <img align="center" src="https://user-images.githubusercontent.com/106914208/213806625-795bf34c-ff4c-47ec-a094-c2b538209d9e.gif" width="30" />
 
-- 🌱 I’m currently learning **Next.Js and React Native**
+- 🌱 I’m currently mastering **Next.Js and React Native**
 
 - 💬 Ask me about **React Next.js Node.js Express.js MERN MEAN and React Native Flutter**
 
