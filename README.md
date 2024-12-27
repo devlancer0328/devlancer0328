@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<b>**Hey there! I'm an full stack developer and enthusiast of web development and programming with a solid skill set in React, NextJS, NodeJS, MongoDB. I'm also open to remote work, so feel free to contact me.**</b><img align="center" src="https://user-images.githubusercontent.com/106914208/213798287-746b0702-c178-4d5f-a19a-f44a03ac3465.gif" width="25" />
+<b>**Hey there! I'm an full stack developer and enthusiast of web development and programming with a solid skill set in React, NextJS, NodeJS, Supabase. I'm also open to remote work, so feel free to contact me.**</b><img align="center" src="https://user-images.githubusercontent.com/106914208/213798287-746b0702-c178-4d5f-a19a-f44a03ac3465.gif" width="25" />
 
 </div>
 
