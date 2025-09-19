@@ -14,8 +14,6 @@
 
 - 💬 Ask me about **React Next.js Node.js Express.js MERN MEAN and React Native Flutter**
 
-- 📫 How to reach me **topdev68gmail.com**
-
 ## Skills:
 
   <a href="https://skillicons.dev">
